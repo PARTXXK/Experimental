@@ -1,6 +1,6 @@
 # Experiments
 
-### This is a series of some colourful, small and experimental projects that are made only with HTML, CSS & JS.
+### This is a series of some colourful, small and experimental projects that are made only with HTML, CSS & some JS.
 
 #### Links for all projects are below:
 
